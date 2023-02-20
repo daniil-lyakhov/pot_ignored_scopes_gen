@@ -1,0 +1,31 @@
+{
+  "interpolate": {
+    "pattern": [
+      [
+        "Interpolate"
+      ],
+      [
+        "Add",
+        "Multiply"
+      ]
+    ],
+    "idx": 1,
+    "num_matches": 77
+  },
+  "reshape": {
+    "pattern": [
+      [
+        "Reshape"
+      ],
+      [
+        "Add",
+        "Multiply"
+      ]
+    ],
+    "idx": 1,
+    "num_matches": 8,
+    "idxs_selection": [
+      -1
+    ]
+  }
+}

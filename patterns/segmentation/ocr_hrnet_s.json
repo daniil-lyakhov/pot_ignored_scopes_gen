@@ -1,0 +1,15 @@
+{
+  "interpolate": {
+    "pattern": [
+      [
+        "Interpolate"
+      ],
+      [
+        "Add",
+        "Multiply"
+      ]
+    ],
+    "idx": 1,
+    "num_matches": 58
+  }
+}
